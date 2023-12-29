@@ -1,0 +1,75 @@
+h1 {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(132, 42, 165);
+
+}
+
+.test {
+    border: 2px solid black;
+    height: 800px;
+    width: 800px;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(35, 96, 215, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+.test1 {
+    border: 2px solid black;
+    height: 700px;
+    width: 700px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(215, 62, 62, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+
+.test2 {
+    border: 2px solid black;
+    height: 50px;
+    width: 500px;
+    font-size: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-top: 120px;
+    background: rgb(34, 193, 195);
+    background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(219, 166, 52, 1) 100%);
+}
+
+.test3 {
+    border: 2px solid black;
+    height: 50px;
+    width: 500px;
+    font-size: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-top: 120px;
+    background: rgb(63, 94, 251);
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(212, 164, 66, 1) 100%);
+
+}
+
+.test4 {
+    border: 2px solid black;
+    height: 50px;
+    width: 500px;
+    font-size: 20px;
+    padding-bottom: 20px;
+    margin-top: 120px;
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+#i1 {
+    margin-right: 170px;
+    margin-top: 10px;
+}
+
+#i2 {
+    margin-right: 250px;
+    margin-top: 10px;
+}
+
+#i3 {
+    margin-right: 350px;
+    margin-top: 10px;
+}

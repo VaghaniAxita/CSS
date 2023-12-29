@@ -1,0 +1,17 @@
+#test {
+    font-size: medium;
+    color: red;
+    height: 100px;
+    width: 500px;
+    font-weight: bold;
+    background-repeat: no-repeat;
+}
+
+#test1 {
+    font-size: medium;
+    color: red;
+    background-image: url("/Lecture3/christmas2.png");
+    height: 100px;
+    width: 500px;
+    font-weight: bold;
+}
