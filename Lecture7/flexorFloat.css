@@ -1,0 +1,331 @@
+*{
+    margin: 0;
+}
+
+#parent-box{
+    min-height: fit-content;
+    min-width: fit-content;
+    background-color: rgb(83, 83, 213);
+    display: flex;
+    justify-content: space-between;
+}
+ 
+#picasa{
+    height: 35px;
+    width: 35px;
+}
+
+#box2{
+    width: fit-content;
+    display: flex;
+    justify-content:space-between;
+}
+
+#home{
+    height: 25px;
+    width: 25px;
+    background-color: white;
+}
+
+#p1{
+    color: white;
+    margin-right: 40px;
+}
+
+#box {
+    border: 1px solid black;
+    max-width: 1000th;
+    min-width: none;
+    max-height: 2000px;
+    background-color: azure;
+}
+
+
+#img1 {
+    /* border: 1px solid grey; */
+    height: 150px;
+    width: 150px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+}
+
+#text1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#btn1 {
+    height: 40px;
+    width: 150px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: medium;
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-top: 15px;
+    background-color: rgb(53, 63, 150);
+}
+
+#box3 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box4 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box5 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box6 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+
+#box7 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box8 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box9 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box10 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box11 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box12 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box13 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box14 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box15 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box16 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box17 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box18 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box19 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    background-color: bisque;
+
+}
+
+#box20 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box21 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    background-color: bisque;
+}
+
+#box22 {
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+    background-color: bisque;
+}
