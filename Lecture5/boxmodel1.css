@@ -4,16 +4,8 @@
 }
 
 #box{
-    height: 500px;
-    width: 500px;
-    border: 2px solid black;
-    margin: 30px;
-    background-color: rgb(239, 160, 103);
-}
-
-#box1{
-    height: 450px;
-    width: 450px;
+    height: 700px;
+    width: 700px;
     border: 2px solid black;
     border-radius: 30px;
     margin-top: 25px;
@@ -38,18 +30,20 @@
     border: 1px solid black;
     border-radius: 100px;
     margin-bottom: 100px;
-    margin-left: 300px;
+    margin-left: 600px;
     padding: 4px;
 }
 
 #p1{
     font-size: 25px;
     font-weight: 800;
+    text-align: center;
 }
 
 #p2{
     font-size: 20px;
     font-weight: 800;
+    text-align: center;
 }
 
 #p3{
@@ -57,12 +51,14 @@
     display: block;
     margin: auto;
     text-decoration: line-through;
+    text-align: center;
 }
 
 #p4{
     font-size: 20px;
     font-weight: 700;
     color: green;
+    text-align: center;
 }
 
 #box2{
@@ -74,5 +70,6 @@
     line-height: 50px;
     border-radius: 10px;
     text-align: center;
+    margin-left: 250px;
 }
 
