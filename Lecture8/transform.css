@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#box1,#box2,#box3,#box4{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(11, 98, 169);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+}
+
+#box1:hover{
+    transform: translate(15px);
+}
+
+#box2:hover{
+     transform: rotate(50deg);
+}
+
+#box3:hover{
+    transform: scale(1.2);
+}
+
+#box4:hover{
+    transform: skew(20deg);
+}
