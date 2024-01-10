@@ -5,7 +5,6 @@
 #parent-box{
     min-height: fit-content;
     min-width: fit-content;
-    background-color: rgb(83, 83, 213);
     display: flex;
     justify-content: space-between;
 }
@@ -24,12 +23,17 @@
 #home{
     height: 25px;
     width: 25px;
-    background-color: white;
+    margin-left: 10px;
+    padding-top: 5px;
 }
 
+
 #p1{
-    color: white;
     margin-right: 40px;
+}
+
+#p1:hover{
+    background-color:rgb(229, 222, 193);
 }
 
 #box {
@@ -37,8 +41,9 @@
     max-width: 1000th;
     min-width: none;
     max-height: 2000px;
-    background-color: azure;
-}
+    background-color:beige;
+} 
+
 
 
 #img1 {
@@ -68,6 +73,10 @@
     background-color: rgb(53, 63, 150);
 }
 
+#btn1:hover{
+    background-color:darkblue;
+}
+
 #box3 {
     border: 2px solid grey;
     border-radius: 15px;
@@ -77,8 +86,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top;
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box4 {
@@ -90,8 +98,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top;
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box5 {
@@ -103,8 +110,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top;
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box6 {
@@ -116,8 +122,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top;
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 
@@ -130,8 +135,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top;
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box8 {
@@ -143,8 +147,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top;
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box9 {
@@ -156,8 +159,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top; 
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box10 {
@@ -169,8 +171,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top; 
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box11 {
@@ -182,8 +183,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top;
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box12 {
@@ -195,8 +195,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top;
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box13 {
@@ -208,8 +207,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top; 
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box14 {
@@ -221,8 +219,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top;
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box15 {
@@ -234,8 +231,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top; 
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box16 {
@@ -247,8 +243,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top; 
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box17 {
@@ -260,8 +255,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top;
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box18 {
@@ -273,8 +267,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top; 
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box19 {
@@ -286,9 +279,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top;
-    margin-right: 40px;
-    background-color: bisque;
-
+    margin-right: 65px;
 }
 
 #box20 {
@@ -300,8 +291,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top;
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box21 {
@@ -313,8 +303,7 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top;
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }
 
 #box22 {
@@ -326,6 +315,5 @@
     margin: 20px;
     display: inline-block;
     vertical-align: top;
-    margin-right: 40px;
-    background-color: bisque;
+    margin-right: 65px;
 }

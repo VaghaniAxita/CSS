@@ -1,4 +1,4 @@
-body {
+ body {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,4 +35,5 @@ body {
 
 #box4:hover{
     transform: skew(20deg);
-}
+} 
+
