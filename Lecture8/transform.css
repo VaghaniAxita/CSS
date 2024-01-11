@@ -22,7 +22,7 @@
 }
 
 #box1:hover{
-    transform: translate(15px);
+    transform: translate(10px,10px);
 }
 
 #box2:hover{
