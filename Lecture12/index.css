@@ -2,13 +2,37 @@
     margin: 0;
 }
 
+/* header */
 #parent-box{
-    min-height: fit-content;
+    min-height: fit-content; 
     min-width: fit-content;
     display: flex;
     justify-content: space-between;
+    border: 1px solid black;
 }
- 
+
+/*banner*/
+
+.name{
+   text-align: center;
+   font-size: 25px;
+   color: black;
+   font-weight: 20px;
+   letter-spacing: 2px;
+}
+
+span{
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(115 64 96);
+    letter-spacing: 0;
+    text-transform: lowercase;
+    font-size: 30px;
+
+}
+
+
+
+
 #fd{
     height: 100px;
     width: 100px;
@@ -43,16 +67,53 @@ a{
 }
 
 #box {
-    border: 1px solid black;
-    /* max-width: 1000th;
+    /* border: 1px solid gray; */
+    max-width: 1000th;
     min-width: none;
-    max-height: 2000px; */
+    max-height: 2000px;
     height: 50vh;
     width: 100vh;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(4,300px);
+    gap: 50px;
+    padding: 50px;
 }
 
 
+
+/*Section-1*/
+#section-1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.imges{
+    height: 450px;
+    border: none;
+}
+
+#b-box{
+    background-color: rgb(250, 247, 247);
+}
+
+#i-box{
+    /* display: flex;
+    justify-content: space-around; */
+    display: grid;
+    grid-template-columns: repeat(7,195px);
+    
+}
+
+.t1{
+    color: black;
+    font-size: 20px;
+}
+
+#section-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

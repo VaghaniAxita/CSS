@@ -24,8 +24,14 @@
 }
 
 @media(max-width:800px){
-    #box2>p1{
+    #box2>#p1{
         display: none;
+    }
+}
+
+@media(min-width:100px){
+    #box1>#picasa{
+        display: block;
     }
 }
 
@@ -70,7 +76,7 @@
     max-width: 1000th;
     min-width: none;
     max-height: 4000px;
-    background-color:rgb(237, 237, 230);
+    background-color:rgb(247, 247, 245);
 } 
 
 
